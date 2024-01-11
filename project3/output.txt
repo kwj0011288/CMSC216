@@ -1,0 +1,4 @@
+This is the [replaced]  in the [replaced] paragraph.
+Second  of the document.
+Appending this  to the [replaced] paragraph.
+
